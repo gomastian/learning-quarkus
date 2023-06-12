@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/learning-quarkus/cmd-app/cmd-app.iml" filepath="$PROJECT_DIR$/learning-quarkus/cmd-app/cmd-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/learning-quarkus/cmd-app-nosql/cmd-app-nosql.iml" filepath="$PROJECT_DIR$/learning-quarkus/cmd-app-nosql/cmd-app-nosql.iml" />
+      <module fileurl="file://$PROJECT_DIR$/learning-quarkus/example/example.iml" filepath="$PROJECT_DIR$/learning-quarkus/example/example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/learning-quarkus/fizz-buzz/fizz-buzz.iml" filepath="$PROJECT_DIR$/learning-quarkus/fizz-buzz/fizz-buzz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/learning_quarkus.iml" filepath="$PROJECT_DIR$/.idea/learning_quarkus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/learning-quarkus/room-batch/room-batch.iml" filepath="$PROJECT_DIR$/learning-quarkus/room-batch/room-batch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/learning-quarkus/room-service/room-service.iml" filepath="$PROJECT_DIR$/learning-quarkus/room-service/room-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/learning-quarkus/room-service-graphql/room-service-graphql.iml" filepath="$PROJECT_DIR$/learning-quarkus/room-service-graphql/room-service-graphql.iml" />
+    </modules>
+  </component>
+</project>

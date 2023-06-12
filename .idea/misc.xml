@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="Quarkus" url="file://$PROJECT_DIR$/learning-quarkus/cmd-app" />
+    <file type="Quarkus" url="file://$PROJECT_DIR$/learning-quarkus/cmd-app-nosql" />
+    <file type="Quarkus" url="file://$PROJECT_DIR$/learning-quarkus/example" />
+    <file type="Quarkus" url="file://$PROJECT_DIR$/learning-quarkus/fizz-buzz" />
+    <file type="Quarkus" url="file://$PROJECT_DIR$/learning-quarkus/room-batch" />
+    <file type="Quarkus" url="file://$PROJECT_DIR$/learning-quarkus/room-service" />
+    <file type="Quarkus" url="file://$PROJECT_DIR$/learning-quarkus/room-service-graphql" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/learning-quarkus/cmd-app/pom.xml" />
+        <option value="$PROJECT_DIR$/learning-quarkus/example/pom.xml" />
+        <option value="$PROJECT_DIR$/learning-quarkus/fizz-buzz/pom.xml" />
+        <option value="$PROJECT_DIR$/learning-quarkus/room-batch/pom.xml" />
+        <option value="$PROJECT_DIR$/learning-quarkus/room-service/pom.xml" />
+        <option value="$PROJECT_DIR$/learning-quarkus/cmd-app-nosql/pom.xml" />
+        <option value="$PROJECT_DIR$/learning-quarkus/room-service-graphql/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_19" default="true" project-jdk-name="openjdk-19" project-jdk-type="JavaSDK" />
+</project>
